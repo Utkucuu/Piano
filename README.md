@@ -17,6 +17,4 @@ https://www.kolaynota.com/melodika-nota-yerleri/#google_vignette
 
 ### Öğrendiğim yeni bilgiler
 
-- ```<kbd>keyboardInput</kbd>``` etiketi bir ifade etikettir. Bu klavye girişini tanımlar.
-
 - data-* attribute kullanımı ile veri saklamak istediğimiz etiketi; data-veriadı=”saklanacak veri”; şeklinde tanımlarız.
