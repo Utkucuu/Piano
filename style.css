@@ -1,5 +1,36 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+} */
+/* div{
+    border: 1px solid red;
+} */
+
+#pianoBorder{
+
+    background:#afa9a9;
+    /* position: relative; */
+    height: 15rem;
+}
+
+.keyBlack{
+  
+    width: 1rem;
+    height: 6rem;
+    background: rgb(0, 0, 0);
+    
+    /* position: absolute; */
+   
+}
+
+
+.keyWhite{
+   
+    width: 2rem;
+    height: 10rem;
+    background: rgb(255, 255, 255);
+   
+    border: 1px solid black;
+   
 }
