@@ -18,3 +18,7 @@ https://www.kolaynota.com/melodika-nota-yerleri/#google_vignette
 ### Öğrendiğim yeni bilgiler
 
 - data-* attribute kullanımı ile veri saklamak istediğimiz etiketi; data-veriadı=”saklanacak veri”; şeklinde tanımlarız.
+
+ - ```currentTime = 0``` script i ses dosyası çalıştıktan sonra varsayılan zamanı ayarlamamızı sağlar. 0' a eşitlediğim için aynı notaya tekrar bastığımda sessin çalma süresinin bitmesini beklemeden tekrar çalabiliyor. 
+ 
+ - ```play()``` ses dosyalarını oynatmak için kullanılır.
