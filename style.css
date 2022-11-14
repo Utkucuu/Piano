@@ -22,7 +22,6 @@
 }
 
 
-
 .keyWhite {
 
     width: 2rem;
@@ -34,11 +33,13 @@
     justify-content: center;
     border-bottom-left-radius: 5%;
     border-bottom-right-radius: 5%;
+  
 }
 
 .bord{
-    border-bottom: 2px solid black;
+    
     border-left: 20px solid black;
     border-right: 20px solid black;
     border-top: 5px solid black;
+    
 }
