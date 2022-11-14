@@ -8,7 +8,6 @@ function getKey(e) {
             var keyView = $(valueOfElement)
             keyView.animate({height: '161px'}, "fast")
             keyView.animate({height: '10rem'}, "fast")
-
          }
     });
 

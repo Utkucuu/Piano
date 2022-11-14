@@ -1,7 +1,7 @@
-# Kaynaklar / Öğrendiğim yeni bilgiler
+# Basit Piyano Çalışması 
 
 ---
-Bu repoda js ve jquery kullanarak bir piyano app yapmaya çalıştım.
+Bu repoda js / jquery vs css kullanarak basit bir piyano app yapmaya çalıştım.
 
 
 ### Kaynaklar
@@ -17,8 +17,8 @@ https://www.kolaynota.com/melodika-nota-yerleri/#google_vignette
 
 ### Öğrendiğim yeni bilgiler
 
-- data-* attribute kullanımı ile veri saklamak istediğimiz etiketi; data-veriadı=”saklanacak veri”; şeklinde tanımlarız.
+- data-* attribute kullanımı ile veri saklamak istediğimiz etiketi; data-veriadı=”saklanacak veri”; şeklinde tanımlarız. Ben ses dosyası sakladığım için her keyDown event oluştuğunda e.key içine gelen harfe göre tanımlı bir ses dosyası .play() fonksiyonu ile çalıştırıldı.
 
  - ```currentTime = 0``` script i ses dosyası çalıştıktan sonra varsayılan zamanı ayarlamamızı sağlar. 0' a eşitlediğim için aynı notaya tekrar bastığımda sessin çalma süresinin bitmesini beklemeden tekrar çalabiliyor. 
  
- - ```play()``` ses dosyalarını oynatmak için kullanılır.
+ - ```play()``` function ses dosyalarını oynatmak için kullanılır.
