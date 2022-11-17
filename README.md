@@ -1,5 +1,7 @@
 # Basit Piyano Çalışması 
 
+<img src="image.png" alt="" >
+
 ---
 Bu repoda js / jquery vs css kullanarak basit bir piyano app yapmaya çalıştım.
 
